@@ -1,1 +1,34 @@
+<!DOCTYPE html> <!--version control-->
+<html lang="en"> <!--to select the language-->
+<head>
+    <meta charset="UTF-8"> <!-- used for SEO, external links(add frameworks)-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title> <!--tab name/page name-->
+</head>
+<body>
+<h1>Aun Zaidi</h1>  <!--to add the main heading of the page-->
+<p>Hello! My name is <b>Aun</b>, and I am currently pursuing my passion for software engineering at NED University. With a deep-rooted interest in technology and a drive for innovation, I am dedicated to honing my skills and becoming a proficient software developer.</p> <!--to add the paragraph-->
+As I continue my journey at NED University, I am excited to further explore the realm of software engineering, expand my skillset, and embrace new challenges that come my way. I am confident that my dedication, enthusiasm, and determination will pave the way for a successful career in the ever-evolving world of technology.</p> <!--to add the paragraph-->
+
+<img src="1714748308180 (1).jfif" alt="error" width="300"> <!--to add image -->
+<br>
+<p>Visit my LinkedIn profile:</p> <!--to add link-->
+<a href="https://www.linkedin.com/in/aun-zaidi-0624b71b6/" target="_top">LinkedIn</a>
+
+<H2>My Hobbies</H2> <!--adding unordered list-->
+<ul type="square">
+    <li>Cricket</li>
+    <li>swimming</li>
+    <li>Problem Solving</li>
+    <li>coding</li>
+</ul>
+
+<H2>My Education</H2> <!--adding unordered list-->
+<ol type="i">
+        <li>Matric</li>
+        <li>Intermediate</li>
+        <li>Bachelors in software engineering</li>
+</ol>
+</body>
+</html>
 
