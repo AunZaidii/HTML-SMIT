@@ -7,9 +7,12 @@
 </head>
 <body>
 <h1>Aun Zaidi</h1>  <!--to add the main heading of the page-->
+<h2>Biography</h2>
 <p>Hello! My name is <b>Aun</b>, and I am currently pursuing my passion for software engineering at NED University. With a deep-rooted interest in technology and a drive for innovation, I am dedicated to honing my skills and becoming a proficient software developer.</p> <!--to add the paragraph-->
 As I continue my journey at NED University, I am excited to further explore the realm of software engineering, expand my skillset, and embrace new challenges that come my way. I am confident that my dedication, enthusiasm, and determination will pave the way for a successful career in the ever-evolving world of technology.</p> <!--to add the paragraph-->
+</br>
 
+<br>
 <img src="1714748308180 (1).jfif" alt="error" width="300"> <!--to add image -->
 <br>
 <h2>Follow Me:</h2> <!--to add link-->
@@ -29,5 +32,57 @@ As I continue my journey at NED University, I am excited to further explore the 
         <li>Intermediate</li>
         <li>Bachelors in software engineering</li>
 </ol>
+
+<h2>Semester Grades</h2>
+<table border="1">
+    <caption>My Semester Grades</caption>
+    <tr>
+        <th>Course</th>
+        <th colspan="2">GPA</th>
+        <th colspan="2">Grade</th>
+    </tr>
+
+    <tr>
+        <td>PF</td>
+        <td colspan="2">3.7</td>
+        <td colspan="2">A</td>
+    </tr>
+
+    <tr>
+        <td>OOP</td>
+        <td colspan="2">4.0</td>
+        <td colspan="2">A+</td>
+    </tr>
+
+    <tr>
+        <td>DSA</td>
+        <td>3.4</td>
+        <td>3.2</td>
+        <td>A-</td>
+        <td>A+</td>
+    </tr>
+
+    <tr>
+        <td>DBMS</td>
+        <td colspan="2">3.2</td>
+        <td colspan="2">B-</td>
+    </tr>
+
+    <tr>
+        <td>DAA</td>
+        <td colspan="2">3.6</td>
+        <td colspan="2">A</td>
+    </tr>
+</table>
+
+
+<h2>Contact Me</h2>
+
+<a href="mailto:aunzaidi548@gmail.com"><img src="download (1).png" alt="Email Icon" width="30"></a>
+    
+<a href="tel:+923126864740"><img src="images.png" alt="none" width="20"></a>
+
+
 </body>
 </html>
+ 
