@@ -12,8 +12,8 @@ As I continue my journey at NED University, I am excited to further explore the 
 
 <img src="1714748308180 (1).jfif" alt="error" width="300"> <!--to add image -->
 <br>
-<p>Visit my LinkedIn profile:</p> <!--to add link-->
-<a href="https://www.linkedin.com/in/aun-zaidi-0624b71b6/" target="_top">LinkedIn</a>
+<h2>Follow Me:</h2> <!--to add link-->
+<a href="https://www.linkedin.com/in/aun-zaidi-0624b71b6/" target="_blank"><img src="download.png" alt="linkedin" width="30"></a> <a href="https://github.com/AunZaidii" target="_blank"> <img src="GitHub-Mark-ea2971cee799.png" alt="none" width="30"></a> <a href="https://leetcode.com/u/AunZaidii/" target="_blank"><img src="LeetCode_logo_black.png" alt="none" width="30"></a>
 
 <H2>My Hobbies</H2> <!--adding unordered list-->
 <ul type="square">
@@ -31,4 +31,3 @@ As I continue my journey at NED University, I am excited to further explore the 
 </ol>
 </body>
 </html>
-
