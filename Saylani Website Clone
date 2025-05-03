@@ -1,1 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saylani Clone Website</title>
+</head>
+<body>
+<a href="mailto:info@SaylaniWelfareUSA.com"> <img src="./download.jfif" alt="call" width="30">info@SaylaniWelfareUSA.com</a> <a href="telto:833-786-0999"><img src="./images.png" alt="phone" width="30">833-786-0999</a> <a href="telto:+923331201585"> <img src="./download.png" alt="whatsapp" width="30">+923331201585</a>
 
+<ul>
+    <li>Home</a></li>
+
+    <li>About</a>
+    <ul>
+        <li><a href="/about/introduction.html">Introduction</a></li>
+        <li><a href="/about/chairman.html">Chairman Message</a></li>
+        <li><a href="/about/tax.html">Tax Exemption Certificate</a></li>
+        <li><a href="/about/terms.html">Terms & Conditions</a></li>
+        <li><a href="/about/privacy.html">Privacy Policy</a></li>
+
+    </ul>
+</li>
+    <li>Services</a>
+    <ul>
+        <li>Health</a>
+        <ul>
+            <li><a href="/services/health/healthdept.html">Health Department</a></li>
+            <li><a href="/services/health/mother.html">Mother & Child Care Center</a></li>
+            <li><a href="/services/health/bloodbank.html">Blood Bank & Thalassemia Center</a></li>
+            <li><a href="/services/health/medequip.html">Medical Equipment</a></li>
+            <li><a href="/services/health/hijama.html">Hijama</a></li>
+            <li><a href="/services/health/lab.html">Laboratroy Facility</a></li>
+            <li><a href="/services/health/xray.html">X-Ray & Ultrasound</a></li>
+        </ul></li>
+
+        <li>Education</a>
+        <ul>
+            
+                <li><a href="/services/education/school.html">Saylani Schooling System</a></li>
+                <li>Voactional Training</a>
+                <ul>
+                    <li><a href="/services/education/vocational/motorbike.html">Motor Bike Mechanic Training</a></li>
+                    <li><a href="/services/education/vocational/textile.html">Textile Training Program</a></li>
+                    <li><a href="/services/education/vocational/mobile.html">Mobile Repair Training</a></li>
+                    <li><a href="/services/education/vocational/roplant.html">R.O. Plant Technician</a></li>
+                </ul></li>
+
+                <li>Technical Education</a>
+                <ul>
+                    <li><a href="/services/education/technical/massit.html">Saylani Mass IT Training</a></li>
+                    <li><a href="/services/education/technical/piaic.html">PIAIC</a></li>
+                </ul></li>
+
+                <li>Islamic Education</a>
+                <ul>
+                    <li><a href="/services/education/islamic/madarsa.html">Madarisa</a></li>
+                    <li><a href="/services/education/islamic/quran.html">Online Quran Academy</a></li>
+                </ul></li>
+
+                <li>Accounting and Finance</a>
+                <ul>
+                    <li><a href="/services/education/accounts/sbil.html">SBIL</a></li>
+                </ul></li>
+
+            </li>
+        </ul></li>
+
+
+        <li>Food</a>
+            <ul>
+                <li><a href="/services/food/family.html">Family Support Ration</a></li>
+                <li><a href="/services/food/dastarkhwuwan.html">Saylani Dastarkhuwan</a></li>
+                <li><a href="/services/food/breakfast.html">Saylani Breakfast</a></li>
+                <li><a href="/services/food/sadqa.html">Sadqa Meat Distribution</a></li>
+                <li><a href="/services/food/mobile.html">Mobile Dastarkhuwan</a></li>
+                <li><a href="/services/food/mezban.html">Mezban Saylani</a></li>
+                <li><a href="/services/food/roti.html">Saylani Roti Bank</a></li>
+            </ul>
+            <li>
+
+
+        <li>Sadiqah e Jariah</a>
+        <ul>
+            <li><a href="/services/sadqah/construction.html">Construction Of Masjid</a></li>
+            <li><a href="/services/sadqah/water.html">Clean Drinking Water</a></li>
+            <li><a href="/services/sadqah/plants.html">Plantation-Green Pakistan</a></li>
+        </ul></li>
+
+
+        <li>Social Welfare</a>
+        <ul>
+            <li><a href="/services/social/kafalat.html">Kafalat Program</a></li>
+            <li><a href="/services/social/wedding.html">Wedding Support Program</a></li>
+            <li><a href="/services/social/karobar.html">Apna Karoobar</a></li>
+            <li><a href="/services/social/job.html">Saylani Job Bank</a></li>
+            <li><a href="/services/social/laptop.html">Laptop Financing Scheme</a></li>
+        </ul></li>
+
+
+        <li>Disaster Aid</a>
+        <ul>
+            <li><a href="/services/disaster/corona.html">Corona Relief Program</a></li>
+            <li><a href="/services/disaster/flood.html">Flood and Rain Relief Program</a></li>
+            <li><a href="/services/disaster/fire.html">Fire Fighting</a></li>
+        </ul></li>
+
+
+        <li>Saylani Ehsaas</a>
+        <ul>
+            <li><a href="/services/ehsaas/langar.html">Langar Khana</a></li>
+            <li><a href="/services/ehsaas/panah.html">Panah Gaah</a></li>
+            <li><a href="/services/ehsaas/bhooka.html">Koi Bhooka Na Soye</a></li>
+        </ul></li>
+
+
+
+    </ul>
+</li>
+
+    
+    <li>Media</a>
+    <ul>
+        <li><a href="/media/vidoes.html">Vidoes</a></li>
+        <li><a href="/media/books.html">Books</a></li>
+        <li><a href="/media/news.html">News</a></li>
+    </ul>
+    </li>
+
+    <li>Contact Us</a>
+    <ul>
+        <li><a href="/contact us/contactus.html">Contact Us</a></li>
+        <li><a href="/contact us/branches.html">Branches</a></li>
+    </ul>
+
+    <li><a href="./bankdetails.html">Bank Details</a></li>
+</ul>
+
+    <h1>Welcome To Saylani Welfare<br>Non Governmental<br>Organization In Pakistan</h1>
+    <h2>The largest NGO offering fee clean water, daily meals, monthly family support education, IT and vocational training, assistance to disaster afectees, healthcare and lot more.</h2>
+    <p>Saylani Welfare is on the ground and already working with local communities to assess how best to support underprivileged families in more than 63 areas of day to day lives.</p>
+
+</body>
+</html>
